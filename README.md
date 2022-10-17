@@ -4,4 +4,4 @@ This repository contains updates template files for the InfPals Big Project 1 de
 
 The update happens every week after the a Workshop for that given weeks is delivered. 
 
-Current demo of the project.
+[Current demo](https://infpals.github.io/ip2023-big-project-1-updated-template/) of the project.
